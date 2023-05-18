@@ -1,0 +1,161 @@
+﻿<productes>
+  <producte id="1">
+    <nom>Camisa de vestir</nom>
+    <preu mondea ="€">39.99</preu>
+    <descripcio>Camisa de vestir de cotó amb coll francès</descripcio>
+    <stock>30</stock>
+    <colors>
+      <color codi="#FFFFFF ">Blanc</color>
+      <color codi="#00A9FF">Blau clar</color>
+      <color codi="#FF00FF">Rosa</color>
+    </colors>
+    <talles>
+      <talla unitat="cm">S</talla>
+      <talla unitat="cm">M</talla>
+      <talla unitat="cm">L</talla>
+    </talles>
+  </producte>
+  <producte id="2">
+    <nom>Pantalons texans</nom>
+    <preu mondea ="€">49.99</preu>
+    <descripcio>Pantalons texans ajustats de cotó</descripcio>
+    <stock>20</stock>
+    <colors>
+      <color codi="#000000">Negre</color>
+      <color codi="#000080">Blau fosc</color>
+      <color codi="#C0C0C0">Gris</color>
+    </colors>
+    <talles>
+      <talla unitat="cm">M</talla>
+      <talla unitat="cm">L</talla>
+      <talla unitat="cm">XL</talla>
+    </talles>
+  </producte>
+  <producte id="3">
+    <nom>Vestit de festa</nom>
+    <preu mondea ="€">79.99</preu>
+    <descripcio>Vestit de festa elegant amb disseny floral</descripcio>
+    <stock>10</stock>
+    <colors>
+      <color codi="#FF0000">Vermell</color>
+      <color codi="#000000">Negre</color>
+      <color codi="#00FFFF">Blau marí</color>
+    </colors>
+    <talles>
+      <talla unitat="cm">S</talla>
+      <talla unitat="cm">M</talla>
+      <talla unitat="cm">L</talla>
+    </talles>
+  </producte>
+   <producte id="4">
+    <nom>Suèter de punt</nom>
+    <preu mondea ="€" >29.99</preu>
+    <descripcio>Suèter de punt de llana amb coll rodó</descripcio>
+    <stock>15</stock>
+    <colors>
+      <color codi="#FFFF00">Groc</color>
+      <color codi="#008000">Verd oliva</color>
+      <color codi="#800000">Marró</color>
+    </colors>
+    <talles>
+      <talla unitat="cm">M</talla>
+      <talla unitat="cm">L</talla>
+    </talles>
+  </producte>
+     <producte id="5">
+    <nom>Camisa Hawaii</nom>
+    <preu mondea ="€" >25.99</preu>
+    <descripcio>Camisa amb estampat hawaii</descripcio>
+    <stock>20</stock>
+    <colors>
+      <color codi="#000080">Blau fosc</color>
+      <color codi="#00A9FF">Blau fosc</color>
+      <color codi="#800000">Marró</color>
+    </colors>
+    <talles>
+      <talla unitat="cm">M</talla>
+      <talla unitat="cm">L</talla>
+      <talla unitat="cm">XL</talla>
+      <talla unitat="cm">XXL</talla>
+    </talles>
+  </producte>
+  <producte id="6">
+    <nom>Camisa Hawaii</nom>
+    <preu mondea ="€" >25.99</preu>
+    <descripcio>Camisa amb estampat hawaii</descripcio>
+    <stock>20</stock>
+    <colors>
+      <color codi="#000080">Blau fosc</color>
+      <color codi="#00A9FF">Blau fosc</color>
+      <color codi="#800000">Marró</color>
+    </colors>
+    <talles>
+      <talla unitat="cm">M</talla>
+      <talla unitat="cm">L</talla>
+      <talla unitat="cm">XL</talla>
+      <talla unitat="cm">XXL</talla>
+    </talles>
+  </producte>
+  <producte id="7">
+    <nom>Sudadera sense caputxa</nom>
+    <preu mondea ="€" >30</preu>
+    <descripcio>Sudadera sense caputxa de cotó</descripcio>
+    <stock>20</stock>
+    <colors>
+      <color codi="#FF0000">Vermell</color>
+      <color codi="#000000">Negre</color>
+      <color codi="#800000">Marró</color>
+    </colors>
+    <talles>
+      <talla unitat="cm">M</talla>
+      <talla unitat="cm">L</talla>
+    </talles>
+  </producte>
+  <producte id="8">
+    <nom>Sudadera amb caputxa</nom>
+    <preu mondea ="€" >39.99</preu>
+    <descripcio>Sudadera amb caputxa de cotó amb destampat rock</descripcio>
+    <stock>20</stock>
+    <colors>
+      <color codi="#000080">Blau fosc</color>
+      <color codi="#000000">Negre</color>
+      <color codi="#800000">Marró</color>
+    </colors>
+    <talles>
+      <talla unitat="cm">S</talla>
+      <talla unitat="cm">M</talla>
+      <talla unitat="cm">L</talla>
+      <color codi="#000080">Blau fosc</color>
+    </talles>
+  </producte>
+  <producte id="9">
+    <nom>Pantalons curts</nom>
+    <preu mondea ="€" >12.99</preu>
+    <descripcio>Pantalons curts de cotó</descripcio>
+    <stock>20</stock>
+    <colors>
+      <color codi="#000080">Blau fosc</color>
+      <color codi="#008000">Verd oliva</color>
+      <color codi="#800000">Marró</color>
+    </colors>
+    <talles>
+      <talla unitat="cm">S</talla>
+      <talla unitat="cm">M</talla>
+    </talles>
+  </producte>
+  <producte id="10">
+    <nom>Pantalons llargs</nom>
+    <preu mondea ="€" >19.99</preu>
+    <descripcio>Pantalons llargs nova edició</descripcio>
+    <stock>20</stock>
+    <colors>
+      <color codi="#000080">Blau fosc</color>
+      <color codi="#008000">Verd oliva</color>
+    </colors>
+    <talles>
+      <talla unitat="cm">S</talla>
+      <talla unitat="cm">M</talla>
+      <talla unitat="cm">L</talla>
+    </talles>
+  </producte>
+</productes>
